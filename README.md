@@ -25,12 +25,10 @@ Lanes is a desktop app that gives you a kanban board where every card can have a
 ## Install
 
 ```bash
-brew install --no-quarantine sqave/lanes/lanes
+brew install sqave/lanes/lanes
 ```
 
 Requires macOS Ventura or later. Runs natively on both Apple Silicon and Intel.
-
-> The `--no-quarantine` flag is needed because Lanes is not notarized with Apple. It's safe — the app is open-source, ad-hoc signed, and runs entirely on your machine.
 
 ## Updates
 
